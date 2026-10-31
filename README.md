@@ -10,6 +10,10 @@ image.
 
 The main patch is also listed at [swordofmoonlight.com/translations/community](https://www.swordofmoonlight.com/translations/community/).
 
+**Player's companion guide:** [read it in your browser](https://mordofswoonlight.github.io/HungryGhostsPS2English/guide/HungryGhosts_PlayerGuide_spoilers.html).
+How the game works, its dangers, places and every item, plus the fifteen endings and how to
+reach them. **Contains spoilers.**
+
 ## What's here
 
 | folder | contents |
